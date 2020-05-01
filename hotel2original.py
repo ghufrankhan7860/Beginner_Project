@@ -1,14 +1,3 @@
-''' To Use This Hotel Management Program
-    First Create Database named hotel
-    Second Create Tables namely
-    1. Customer_data
-    2. Room_rent
-    3. restaurentbill
-    4. laundrybill
-    5. gamebill
-    6. grandbill
-'''
-
 # For error free Runnig of Program
 
 import datetime
